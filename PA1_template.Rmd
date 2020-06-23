@@ -3,6 +3,7 @@ title: "Reproducible Research Assignment"
 author: "Andrew Holland"
 date: "23/06/2020"
 output: html_document
+keep_md: true
 ---
 
 ## (1) Read in data
